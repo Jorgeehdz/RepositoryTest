@@ -3,3 +3,4 @@ Test creating a new file txt
 apple
 banana
 cucumber
+other
